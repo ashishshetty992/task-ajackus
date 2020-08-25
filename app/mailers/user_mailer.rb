@@ -3,6 +3,6 @@ class UserMailer < ApplicationMailer
 
   def contact_email(contact)
     @contact = contact
-    mail(to: "ashish@intellolabs.com", from: @contact.email, :subject => "Website Contact")
+    mail(to: "info@ajackus.com", from: @contact.email, :subject => "Website Contact")
   end
 end
