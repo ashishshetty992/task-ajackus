@@ -1,0 +1,8 @@
+pt:
+  contacts:
+    title: "Contato"
+    send-message: "Envie-nos uma mensagem"
+    name-info: "DIGA-NOS SEU NOME *"
+    email: "DIGITE SEU E-MAIL *"
+    phone: "DIGITE O NÚMERO DE TELEFONE"
+    message: "MENSAGEM *"

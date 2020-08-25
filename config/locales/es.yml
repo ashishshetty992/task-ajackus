@@ -1,0 +1,8 @@
+es:
+  contacts:
+    title: "Contacto"
+    send-message: "Mandanos un mensaje"
+    name-info: "Dinos tu nombre *"
+    email: "Introduce tu correo electrónico *"
+    phone: "INTRODUZCA EL NÚMERO DE TELÉFONO"
+    message: "MENSAJE *"
